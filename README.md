@@ -7,7 +7,7 @@ This script was created to facilitate and optimize the display of public tenders
 - adds color to rows of unread public tenders
 - adds a filter to hide already read tenders 
 - change pagination with infinite scrolling
-- allows opening the links in other tabs
+- allows opening links in new tabs
 
 **Demo:**
 ![demo-gif](https://github.com/mariann03/comprar-gob-ar-extended/blob/master/demo.gif?raw=true)
