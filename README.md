@@ -3,9 +3,9 @@ A Tampermonkey script that adds features to the page comprar.gob.ar
 
 ## What it does?
 This script was created to facilitate and optimize the display of public tenders by adding the following features:
-- adds read / unread mark
-- adds color to rows of unread public tenders
-- adds a filter to hide already read tenders 
+- read / unread mark
+- color to rows of unread public tenders
+- filter to hide already read tenders 
 - change pagination with infinite scrolling
 - allows opening links in new tabs
 
